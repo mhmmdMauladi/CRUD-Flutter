@@ -1,6 +1,6 @@
 # flutter_api
 
-A new Flutter project.
+Backend API for Flutter app using Rest API
 
 ## Getting Started
 
